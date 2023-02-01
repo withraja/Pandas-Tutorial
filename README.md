@@ -6,6 +6,8 @@
 Think of it like a spreadsheet that you can use in Python, where you can store and manipulate data, such as adding new columns, filtering rows based on certain conditions, and more. 
 
 Pandas is not an essential component of python scientific computing such as NumPy and Matplotlib. It is built on top of NumPy and it steps on its computational abilities.  
+⚠️ **Make sure you already install NumPy first**  
+
 ## Terms 🗒️ 
 **Series** in Pandas SIMILIAR TO **1D** Array in NumPy  
 **DataFrames** in Pandas SIMILIAR TO **2D** Array in NumPy 
@@ -14,8 +16,6 @@ Pandas is not an essential component of python scientific computing such as NumP
 - Basic Python syntax knowledge
 - Python IDEs
 - NumPy library knowledge
-⚠️ **Make sure you already install NumPy first**
-
 
 ## What's Inside? 📦
 - **Pandas Basic, Series, DataFrames Tutorials** --> Only in Bahasa
